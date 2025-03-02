@@ -1,0 +1,6 @@
+if SHIELD_WALLET42
+
+config ZMK_KEYBOARD_NAME
+    default "wallet42"
+
+endif
